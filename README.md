@@ -1,1 +1,5 @@
-# alpha-pos
+# Alpha Pos System
+
+## Preview
+
+![](preview.png)
